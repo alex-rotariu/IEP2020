@@ -1,2 +1,2 @@
 add_library(GeomFig.h
-            rectangle.cpp)
+            Rectangle.cpp)
