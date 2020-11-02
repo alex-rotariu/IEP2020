@@ -1,0 +1,8 @@
+/home/alex/Documents/IEP/IEP2020/Lucrarea 4/build/CMakeFiles/rebuild_cache.dir
+/home/alex/Documents/IEP/IEP2020/Lucrarea 4/build/CMakeFiles/edit_cache.dir
+/home/alex/Documents/IEP/IEP2020/Lucrarea 4/build/src/CMakeFiles/rebuild_cache.dir
+/home/alex/Documents/IEP/IEP2020/Lucrarea 4/build/src/CMakeFiles/edit_cache.dir
+/home/alex/Documents/IEP/IEP2020/Lucrarea 4/build/src/CMakeFiles/shapes.dir
+/home/alex/Documents/IEP/IEP2020/Lucrarea 4/build/exec/CMakeFiles/rebuild_cache.dir
+/home/alex/Documents/IEP/IEP2020/Lucrarea 4/build/exec/CMakeFiles/edit_cache.dir
+/home/alex/Documents/IEP/IEP2020/Lucrarea 4/build/exec/CMakeFiles/main.dir

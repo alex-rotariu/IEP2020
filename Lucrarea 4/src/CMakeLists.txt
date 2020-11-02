@@ -1,2 +1,2 @@
-add_library(GeomFig.h
+add_library(shapes GeomFig.h
             Rectangle.cpp)

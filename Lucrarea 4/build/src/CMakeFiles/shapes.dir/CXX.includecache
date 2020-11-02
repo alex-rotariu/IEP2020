@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alex/Documents/IEP/IEP2020/Lucrarea 4/src/GeomFig.h
+iostream
+-
+
+/home/alex/Documents/IEP/IEP2020/Lucrarea 4/src/Rectangle.cpp
+iostream
+-
+GeomFig.h
+/home/alex/Documents/IEP/IEP2020/Lucrarea 4/src/GeomFig.h
+
